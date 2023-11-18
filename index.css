@@ -1,0 +1,29 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("grass.jpg");
+    background-size: cover;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(255, 183, 0);
+}
+
+#message-el {
+    font-style: italic;
+}
+
+p{
+    color: blue;
+}
+
+button {
+    color:#016f32;
+    font-weight: 1000;
+    width:150px;
+    background:goldenrod;
+    margin: 4px 4px 4px 4px;
+    padding: 5px 5px;
+}
